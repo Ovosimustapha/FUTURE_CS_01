@@ -4,7 +4,7 @@
 
 This repository contains a **passive security assessment** of testfire.net (Altoro Mutual Demo Application). The assessment was conducted using non-intrusive techniques with no exploitation, authentication bypass, brute force attacks, or denial-of-service testing.
 
-**Assessment Date:** [Insert Date]  
+**Assessment Date:**   
 **Target:** testfire.net (IP: 65.61.137.117)  
 **Assessment Type:** Passive Security Review
 
