@@ -357,15 +357,4 @@ This assessment was conducted using **passive and non-destructive techniques onl
 
 The testfire.net application demonstrates functional HTTPS deployment and generally accessible service configuration. However, **several industry-standard security controls** are either missing or improperly configured. Addressing the 7 medium-risk findings should be **prioritized** to improve overall security posture and reduce exposure to common web-based attacks including XSS, CSRF, clickjacking, and session hijacking.
 
-**Estimated Effort to Remediate:** Low to Medium (primarily configuration changes)
 
----
-
-## Contact & Support
-
-For questions regarding this assessment or remediation guidance, please contact the security assessment team.
-
----
-
-**Document Version:** 1.0  
-**Last Updated:** 2026-06-17
